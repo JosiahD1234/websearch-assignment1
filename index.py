@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Josiah Degeneffe
 # FILENAME: index.py
 # SPECIFICATION: This program creates an inverted index from documents in
 # collection.csv using normalization and lemmatization to do so
