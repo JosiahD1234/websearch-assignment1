@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: index.py
+# SPECIFICATION: This program creates an inverted index from documents in
+# collection.csv using normalization and lemmatization to do so
 # FOR: CS 4250 - Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1 hour
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
